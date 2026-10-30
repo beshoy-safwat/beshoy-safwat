@@ -28,43 +28,69 @@ I'm a Computer Science graduate passionate about mobile development and turning 
 
 ---
 
-### 📱 Featured Projects
+## 🚀 Featured Projects
 
-#### 🍔 Akla – Food Delivery App
-
-A Flutter food delivery application built to provide a smooth food ordering experience.
+### 🍔 Akla – Food Delivery App
+A Flutter food delivery application built with Firebase and BLoC.
 
 - User authentication and profile management
-- Restaurant browsing and food categories
-- Cart and favorites management
-- Order management
-- Firebase integration
-- Payment integration
-- State management using BLoC/Cubit
+- Restaurant browsing and product details
+- Cart, favourites, and order management
+- Payment integration (Paymob, InstaPay, and Cash)
+- Firebase Firestore, Storage, and Messaging
 
-**Built with:** Flutter, Dart, Firebase, Cloud Firestore, BLoC.
-
-[View Repository](https://github.com/besho0y/foodapp)
+**Tech:** Flutter, Dart, Firebase, BLoC
 
 ---
 
-### 📊 GitHub Statistics
+### 📚 E-Learning App
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=besho0y&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=besho0y&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+A Flutter application designed to provide an organized and user-friendly learning experience.
+
+- Developed a mobile learning application using Flutter and Dart.
+- Built reusable UI components for a consistent user experience.
+- Organized the application into structured screens and widgets.
+- Focused on clean UI design and smooth navigation.
+- Applied Flutter development practices to build a maintainable application.
+
+**Tech Stack:** Flutter, Dart
 
 ---
+### 🔐 SOC – Cybersecurity Awareness & Training Platform
+
+A platform designed to train users to recognize, understand, and respond to different cybersecurity attacks through interactive learning experiences.
+
+- Developed a cybersecurity training platform to simulate real-world cyberattack scenarios.
+- Helped users understand common cybersecurity threats and attack techniques.
+- Implemented a progression tracking system to monitor users' learning progress.
+- Organized training content into structured levels to support step-by-step learning.
+- Designed the platform to improve users' cybersecurity awareness and threat detection skills.
+
+**Tech Stack:** [Add the technologies used in the project]
+---
+### ⚛️ CRUD Products Management
+
+A React.js application for managing product data through CRUD operations.
+
+- Developed a product management interface using React.js.
+- Implemented **Create, Read, Update, and Delete (CRUD)** operations.
+- Built reusable React components to organize the application.
+- Created forms for adding and updating product information.
+- Displayed product data in an organized and user-friendly interface.
+- Managed application state to reflect product changes.
+
+**Tech Stack:** React.js, JavaScript, HTML, CSS
+
+
 
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/besho0y">GitHub</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://github.com/beshoy-safwat">GitHub</a> •
+  <a href="https://www.linkedin.com/in/beshoysafwatt/">LinkedIn</a>
 </p>
 
-📧 Email: YOUR_EMAIL
+📧 Email: beshoysafwatt@outlook.com
 
 ---
 
